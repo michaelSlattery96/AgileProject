@@ -1,4 +1,3 @@
-pause
 whoami	
 pause
 date /t
