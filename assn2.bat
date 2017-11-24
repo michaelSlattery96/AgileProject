@@ -1,3 +1,4 @@
-whoami	
+whoami
+pause	
 date /t
 pause
